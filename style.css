@@ -2,6 +2,11 @@
 	COMMONS CLASSES
 \*------------------------------------*/
 
+.logo{
+	padding-top:100px;
+	padding-left:300px;
+	}
+
 h1, h2, h3, h4, h5, h6
 {
     font-family: 'Roboto Slab', serif;
@@ -9,7 +14,8 @@ h1, h2, h3, h4, h5, h6
 
 h1, h2, h3, h4, h5, h6
 {
-    margin-bottom: 1.1em;
+	margin-bottom: 1.1em;
+	font-size: 39px;
 }
 
 .features,
@@ -49,7 +55,7 @@ span.x4:before, i.x4:before
 
 header .container-fluid
 {
-    background-image: url('https://unsplash.it/2560/1707?image=961');
+    background-image: url(images/italian-1082230.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -105,17 +111,17 @@ header .container-fluid
 
 .number .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=685');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+	background-image:url(images/b4b8f8_3fbfeaff02d3eced93c32d7994f3b03e.jpg);
 }
 
 .opaline
 {
     padding-top: 3em;
     padding-bottom: 3em;
-    background-color: rgba(128, 215, 247, 0.660);
+    background-color: rgba(128, 215, 247, 0.690);
 }
 
 .opaline h1,
@@ -144,7 +150,7 @@ header .container-fluid
 
 .story .container-fluid
 {
-    background-image: url('https://unsplash.it/3000/2000?image=531');
+    background-image: url(images/pasta-1124484.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

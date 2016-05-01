@@ -5766,3 +5766,9 @@ button.close {
     display: none !important;
   }
 }
+
+
+.center{
+	text-align: center;
+	font-size: 39px;
+}
